@@ -8,4 +8,5 @@ import catchError from 'better-trycatch'
 // Or `const catchError = require("better-trycatch")`
 
 const [error, result] = await catchError(Promise.reject("An Error"))
+console.log(error)
 ```
