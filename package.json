@@ -1,5 +1,5 @@
 {
-  "name": "better-trycatch",
+  "name": "better-async-try-catch",
   "version": "1.0.0",
   "main": "./lib/index.js",
   "license": "MIT",
